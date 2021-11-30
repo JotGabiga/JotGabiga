@@ -11,7 +11,7 @@ From my previous professional experience I can bring a technical flair, a passio
 - 🔭 I’m currently working as member of the IT team of [SFI Academic IT Festival](https://sfi.pl/pl/) 
 - :seedling: I'm currently exploring TypeScript
 - 📫 How to reach me: justynagabiga@gmail.com || [LinkedIn](https://www.linkedin.com/in/justynagabiga/)
-- ⚡ Fun fact: I'm interested in 3D graphics. You can see my work on [Behance](https://www.behance.net/justynagabiga1/appreciated)
+- ⚡ Fun fact: I'm interested in 3D graphics. You can see my work on [Behance](https://www.behance.net/justynagabiga1/projects)
 
 ## That I know and use
 ### Languages & Frameworks:
