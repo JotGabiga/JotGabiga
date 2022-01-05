@@ -1,15 +1,14 @@
 ## About me
 
-### Hi I’m Justyna, a beginner Frontend developer excited to build, develop, and create. Currently switching careers from an Architect into Frontend developer. 
+### Hi I am Justyna, a beginner Frontend developer excited to build, develop, and create. Currently switching careers from an Architect into Frontend developer. 
 
-I've been learning frontend programming for two years. In April 2021, I graduated from a [Web programming course with CodersCrew](https://www.coderscamp.edu.pl/) to further deepen my programming skills.
+I have been learning frontend programming for two years. In April 2021, I graduated from a [Web programming course with CodersCrew](https://www.coderscamp.edu.pl/) to further deepen my programming skills.
 
-I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I'm also passionate about UX/UI design and the craft of building beautiful and accessible experiences that meet users needs. 
+I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I am also passionate about UX/UI design and the craft of building beautiful and accessible experiences that meet users needs. 
 
 From my previous professional experience I can bring a technical flair, a passion for taking care of the visual side of the project and good organization skills.
 
-- 🔭 I’m currently working as member of the IT team of [SFI Academic IT Festival](https://sfi.pl/pl/) 
-- :seedling: I'm currently exploring TypeScript
+- 🔭 I am currently working as member of the IT team of [SFI Academic IT Festival](https://sfi.pl/pl/) 
 - 📫 How to reach me: justynagabiga@gmail.com || [LinkedIn](https://www.linkedin.com/in/justynagabiga/)
 - ⚡ Fun fact: I'm interested in 3D graphics. You can see my work on [Behance](https://www.behance.net/justynagabiga1/projects)
 
