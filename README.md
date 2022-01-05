@@ -1,6 +1,6 @@
 ## About me
 
-### Hi I am Justyna, a beginner Frontend developer excited to build, develop, and create. Currently switching careers from an Architect into Frontend developer. 
+### Hi, I am Justyna, a beginner Frontend developer excited to build, develop, and create. Currently switching careers from an Architect into Frontend developer. 
 
 I have been learning frontend programming for two years. In April 2021, I graduated from a [Web programming course with CodersCrew](https://www.coderscamp.edu.pl/) to further deepen my programming skills.
 
