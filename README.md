@@ -10,7 +10,7 @@ From my previous professional experience I can bring a technical flair, a passio
 
 - 🔭 I am currently working as member of the IT team of [SFI Academic IT Festival](https://sfi.pl/pl/) 
 - 📫 How to reach me: justynagabiga@gmail.com || [LinkedIn](https://www.linkedin.com/in/justynagabiga/)
-- ⚡ Fun fact: I'm interested in 3D graphics. You can see my work on [Behance](https://www.behance.net/justynagabiga1/projects)
+- ⚡ Fun fact: I am interested in 3D graphics. You can see my work on [Behance](https://www.behance.net/justynagabiga1/projects)
 
 ## That I know and use
 ### Languages & Frameworks:
