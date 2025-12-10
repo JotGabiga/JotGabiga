@@ -13,20 +13,31 @@ Currently exploring the space between frontend engineering and UX — aiming to 
 - ⚡ Fun fact: I am interested in 3D graphics. You can see my work on [Behance](https://www.behance.net/justynagabiga1/projects)
 
 ## That I know and use
-### Languages & Frameworks:
-![Custom badge](https://img.shields.io/static/v1?label=&message=HTML5&logo=html5&color=EEEEEE&logoColor=ff6d00&style=for-the-badge)
-![Custom badge](https://img.shields.io/static/v1?label=&message=CSS3&logo=css3&color=EEEEEE&logoColor=blue&style=for-the-badge)
-![Custom badge](https://img.shields.io/static/v1?label=&message=SASS&logo=sass&color=EEEEEE&logoColor=FF61B4&style=for-the-badge)
-![Custom badge](https://img.shields.io/static/v1?label=&message=JAVASCRIPT&logo=javascript&color=EEEEEE&logoColor=FFCE00&style=for-the-badge)
-![Custom badge](https://img.shields.io/static/v1?label=&message=REACT&logo=react&color=EEEEEE&logoColor=blue&style=for-the-badge)
-![Custom badge](https://img.shields.io/static/v1?label=&message=NODE.JS&logo=nodedotjs&color=EEEEEE&logoColor=4da550&style=for-the-badge)
-### Databases and Cloud:
-![Custom badge](https://img.shields.io/static/v1?label=&message=MONGODB&logo=mongodb&color=E4E4E4&logoColor=4da550&style=for-the-badge)
-![Custom badge](https://img.shields.io/static/v1?label=&message=FIREBASE&logo=firebase&color=E4E4E4&logoColor=fc6e04&style=for-the-badge)
-![Custom badge](https://img.shields.io/static/v1?label=&message=HEROKU&logo=heroku&color=E4E4E4&logoColor=7e57c2&style=for-the-badge)
+
+## 🚀 Technologies I Use
+
+### **Languages & Frameworks**
+![Custom badge](https://img.shields.io/static/v1?label=&message=JavaScript&logo=javascript&color=EEEEEE&logoColor=F7DF1E&style=for-the-badge)
+![Custom badge](https://img.shields.io/static/v1?label=&message=TypeScript&logo=typescript&color=EEEEEE&logoColor=3178C6&style=for-the-badge)
+![Custom badge](https://img.shields.io/static/v1?label=&message=React&logo=react&color=EEEEEE&logoColor=61DAFB&style=for-the-badge)
+![Custom badge](https://img.shields.io/static/v1?label=&message=TailwindCSS&logo=tailwindcss&color=EEEEEE&logoColor=06B6D4&style=for-the-badge)
+
+### **Backend**
+![Custom badge](https://img.shields.io/static/v1?label=&message=Node.js&logo=nodedotjs&color=EEEEEE&logoColor=339933&style=for-the-badge)
+![Custom badge](https://img.shields.io/static/v1?label=&message=Express&logo=express&color=EEEEEE&logoColor=000000&style=for-the-badge)
+
+### **Database**
+![Custom badge](https://img.shields.io/static/v1?label=&message=PostgreSQL&logo=postgresql&color=EEEEEE&logoColor=336791&style=for-the-badge)
+
+### **Testing**
+![Custom badge](https://img.shields.io/static/v1?label=&message=Jest&logo=jest&color=EEEEEE&logoColor=C21325&style=for-the-badge)
+![Custom badge](https://img.shields.io/static/v1?label=&message=Cypress&logo=cypress&color=EEEEEE&logoColor=17202C&style=for-the-badge)
+![Custom badge](https://img.shields.io/static/v1?label=&message=Cucumber&logo=cucumber&color=EEEEEE&logoColor=23D96C&style=for-the-badge)
+
 ### Tools:
 ![Custom badge](https://img.shields.io/static/v1?label=&message=GITHUB&logo=github&color=DADADA&logoColor=black&style=for-the-badge)
 ![Custom badge](https://img.shields.io/static/v1?label=&message=FIGMA&logo=figma&color=DADADA&logoColor=black&style=for-the-badge)
+![Custom badge](https://img.shields.io/static/v1?label=&message=Figma&logo=figma&color=EEEEEE&logoColor=000000&style=for-the-badge)
 
 
 
