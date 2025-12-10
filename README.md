@@ -1,14 +1,14 @@
 ## About me
 
-### Hi, I am Justyna, a beginner Frontend developer excited to build, develop, and create. Currently switching careers from an Architect into Frontend developer. 
+### Hi, I’m Justyna — a Software Engineer with 3.5 years of experience building and maintaining full-stack web applications using React, TypeScript, Node.js and PostgreSQL. ###
 
-I have been learning frontend programming for two years. In April 2021, I graduated from a [Web programming course with CodersCrew](https://www.coderscamp.edu.pl/) to further deepen my programming skills.
+I focus on delivering clean, maintainable code and high-quality features supported by automated tests (Jest, Cypress, Cucumber). With a strong attention to UX, I care about creating intuitive, accessible and user-friendly interfaces that solve real user problems.
 
-I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I am also passionate about UX/UI design and the craft of building beautiful and accessible experiences that meet users needs. 
+I’m comfortable working in Agile environments, contributing to code reviews, shaping technical decisions and writing automated tests that ensure long-term code quality.
 
-From my previous professional experience I can bring a technical flair, a passion for taking care of the visual side of the project and good organization skills.
+Currently exploring the space between frontend engineering and UX — aiming to bridge both worlds in my career.
 
-- 🔭 I am currently working as member of the IT team of [SFI Academic IT Festival](https://sfi.pl/pl/) 
+- 🔭  I am currently participating in the Women Go Tech Acceleration Program [Women Go Tech](https://www.womengotech.com/acceleration-program/) 
 - 📫 How to reach me: justynagabiga@gmail.com || [LinkedIn](https://www.linkedin.com/in/justynagabiga/)
 - ⚡ Fun fact: I am interested in 3D graphics. You can see my work on [Behance](https://www.behance.net/justynagabiga1/projects)
 
