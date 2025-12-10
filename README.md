@@ -1,6 +1,6 @@
 ## About me
 
-### Hi, I’m Justyna — a Software Engineer with 3.5 years of experience building and maintaining full-stack web applications using React, TypeScript, Node.js and PostgreSQL. ###
+### Hi, I’m Justyna, a Software Engineer with 3.5 years of experience building and maintaining full-stack web applications using React, TypeScript, Node.js and PostgreSQL. ###
 
 I focus on delivering clean, maintainable code and high-quality features supported by automated tests (Jest, Cypress, Cucumber). With a strong attention to UX, I care about creating intuitive, accessible and user-friendly interfaces that solve real user problems.
 
@@ -13,8 +13,6 @@ Currently exploring the space between frontend engineering and UX — aiming to 
 - ⚡ Fun fact: I am interested in 3D graphics. You can see my work on [Behance](https://www.behance.net/justynagabiga1/projects)
 
 ## That I know and use
-
-## 🚀 Technologies I Use
 
 ### **Languages & Frameworks**
 ![Custom badge](https://img.shields.io/static/v1?label=&message=JavaScript&logo=javascript&color=EEEEEE&logoColor=F7DF1E&style=for-the-badge)
@@ -32,7 +30,6 @@ Currently exploring the space between frontend engineering and UX — aiming to 
 ### **Testing**
 ![Custom badge](https://img.shields.io/static/v1?label=&message=Jest&logo=jest&color=EEEEEE&logoColor=C21325&style=for-the-badge)
 ![Custom badge](https://img.shields.io/static/v1?label=&message=Cypress&logo=cypress&color=EEEEEE&logoColor=17202C&style=for-the-badge)
-![Custom badge](https://img.shields.io/static/v1?label=&message=Cucumber&logo=cucumber&color=EEEEEE&logoColor=23D96C&style=for-the-badge)
 
 ### Tools:
 ![Custom badge](https://img.shields.io/static/v1?label=&message=GITHUB&logo=github&color=DADADA&logoColor=black&style=for-the-badge)
