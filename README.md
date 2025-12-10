@@ -2,7 +2,7 @@
 
 ### Hi, I’m Justyna — a Software Engineer with 3.5 years of experience building and maintaining full-stack web applications using React, TypeScript, Node.js and PostgreSQL.
 
-I focus on delivering clean, maintainable code and high-quality features supported by automated tests (Jest, Cypress, Cucumber). With strong attention to UX, I care about creating intuitive, accessible and user-friendly interfaces that genuinely support users’ needs.
+I focus on delivering clean, maintainable code and high-quality features supported by automated tests (Jest, Cypress, Cucumber). With strong attention to UX, I care about creating intuitive, accessible and user-friendly interfaces that genuinely support users needs.
 
 I’m comfortable working in Agile environments, contributing to code reviews, shaping technical decisions and developing test-covered solutions that ensure long-term stability.
 
