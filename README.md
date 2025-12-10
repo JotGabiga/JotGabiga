@@ -35,7 +35,7 @@ I’m currently exploring the space between frontend engineering and UX — aimi
 ### Tools:
 ![Custom badge](https://img.shields.io/static/v1?label=&message=GITHUB&logo=github&color=DADADA&logoColor=black&style=for-the-badge)
 ![Custom badge](https://img.shields.io/static/v1?label=&message=FIGMA&logo=figma&color=DADADA&logoColor=black&style=for-the-badge)
-![Custom badge](https://img.shields.io/static/v1?label=&message=Figma&logo=figma&color=EEEEEE&logoColor=000000&style=for-the-badge)
+
 
 
 
