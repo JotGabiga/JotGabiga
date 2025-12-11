@@ -7,7 +7,7 @@ I focus on delivering clean, maintainable code and high-quality features support
 While my core strength is frontend engineering, I’m also experienced on the backend with Node.js, and I’m continuously developing in both areas. I’m interested in how frontend engineering and UX intersect — especially in the context of usability, accessibility and improving product quality — but my primary focus remains building robust web applications.
 
 - 🔭 I am currently participating in the **Women Go Tech Acceleration Program**
-- 🎓 Engineering graduate from ###Cracow University of Technology###
+- 🎓 Engineering graduate from **Cracow University of Technology**
 - 📫 How to reach me: justynagabiga@gmail.com || [LinkedIn](https://www.linkedin.com/in/justynagabiga/)
 - ⚡ Fun fact: I am interested in 3D graphics. You can see my work on [Behance](https://www.behance.net/justynagabiga1/projects)
 
