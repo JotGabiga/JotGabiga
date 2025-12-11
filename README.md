@@ -2,13 +2,12 @@
 
 ### Hi, I’m Justyna — a Software Engineer with 3.5 years of experience building and maintaining full-stack web applications using React, TypeScript, Node.js and PostgreSQL.
 
-I focus on delivering clean, maintainable code and high-quality features supported by automated tests (Jest, Cypress, Cucumber). With strong attention to UX, I care about creating intuitive, accessible and user-friendly interfaces that genuinely support users needs.
+I focus on delivering clean, maintainable code and high-quality features supported by automated tests (Jest, Cypress, Cucumber). I’m comfortable working in Agile teams, contributing to architecture discussions, code reviews and shaping technical decisions. I enjoy turning requirements into well-designed, test-covered features that solve real problems for users and drive business outcomes.
 
-I’m comfortable working in Agile environments, contributing to code reviews, shaping technical decisions and developing test-covered solutions that ensure long-term stability.
+While my core strength is frontend engineering, I’m also experienced on the backend with Node.js, and I’m continuously developing in both areas. I’m interested in how frontend engineering and UX intersect — especially in the context of usability, accessibility and improving product quality — but my primary focus remains building robust web applications.
 
-I’m currently exploring the space between frontend engineering and UX — aiming to connect both worlds in my career.
-
-- 🔭 I am currently participating in the **Women Go Tech Acceleration Program**  
+- 🔭 I am currently participating in the **Women Go Tech Acceleration Program**
+- 🎓 Engineering graduate from ###Cracow University of Technology###
 - 📫 How to reach me: justynagabiga@gmail.com || [LinkedIn](https://www.linkedin.com/in/justynagabiga/)
 - ⚡ Fun fact: I am interested in 3D graphics. You can see my work on [Behance](https://www.behance.net/justynagabiga1/projects)
 
